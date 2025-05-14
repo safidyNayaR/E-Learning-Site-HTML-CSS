@@ -1,0 +1,27 @@
+.titre-bold {
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 6px;
+}
+
+.lien-cours-style {
+    color: blue;
+}
+
+.lien-cours-style:hover {
+    border-bottom: solid 2px;
+}
+
+.a_propos {
+    position: absolute;
+    width: 70%;
+    height: 80vh;
+    border: solid 2px black;
+    border-radius: 20px;
+    left: 15%;
+    padding: 20px;
+    overflow: scroll;
+    overflow-wrap: break-word;
+    word-break: break-word;
+    white-space: normal;
+}
